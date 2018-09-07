@@ -1,0 +1,11 @@
+C:\Users\Takafumi\source\repos\DerivativePolynomial\DerivativePolynomial\bin\Debug\netcoreapp2.1\DerivativePolynomial.deps.json
+C:\Users\Takafumi\source\repos\DerivativePolynomial\DerivativePolynomial\bin\Debug\netcoreapp2.1\DerivativePolynomial.runtimeconfig.json
+C:\Users\Takafumi\source\repos\DerivativePolynomial\DerivativePolynomial\bin\Debug\netcoreapp2.1\DerivativePolynomial.runtimeconfig.dev.json
+C:\Users\Takafumi\source\repos\DerivativePolynomial\DerivativePolynomial\bin\Debug\netcoreapp2.1\DerivativePolynomial.dll
+C:\Users\Takafumi\source\repos\DerivativePolynomial\DerivativePolynomial\bin\Debug\netcoreapp2.1\DerivativePolynomial.pdb
+C:\Users\Takafumi\source\repos\DerivativePolynomial\DerivativePolynomial\obj\Debug\netcoreapp2.1\DerivativePolynomial.csprojAssemblyReference.cache
+C:\Users\Takafumi\source\repos\DerivativePolynomial\DerivativePolynomial\obj\Debug\netcoreapp2.1\DerivativePolynomial.csproj.CoreCompileInputs.cache
+C:\Users\Takafumi\source\repos\DerivativePolynomial\DerivativePolynomial\obj\Debug\netcoreapp2.1\DerivativePolynomial.AssemblyInfoInputs.cache
+C:\Users\Takafumi\source\repos\DerivativePolynomial\DerivativePolynomial\obj\Debug\netcoreapp2.1\DerivativePolynomial.AssemblyInfo.cs
+C:\Users\Takafumi\source\repos\DerivativePolynomial\DerivativePolynomial\obj\Debug\netcoreapp2.1\DerivativePolynomial.dll
+C:\Users\Takafumi\source\repos\DerivativePolynomial\DerivativePolynomial\obj\Debug\netcoreapp2.1\DerivativePolynomial.pdb
